@@ -7,4 +7,5 @@
 	git pull -u origin master
   
   Then make some change, after that
+
 	git push
