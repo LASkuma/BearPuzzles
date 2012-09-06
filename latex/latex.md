@@ -13,6 +13,7 @@ Or it would not be compiled. So use
 	\begin{paragraph}{paraname}
   
 If you want to leave the name of paragraph there and start a new line to write something, use this
+
 	\flushleft
   
 You can also use `\flushright` or `\center` to do it.
