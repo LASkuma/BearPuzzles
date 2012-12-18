@@ -1,5 +1,9 @@
 #string
 
+## Traits
+
+C++ string is mutable.
+
 ## Member Functions
 
 ### erase
