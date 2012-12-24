@@ -4,6 +4,10 @@
 
 C++ string is mutable.
 
+### Convert C++ into C string
+
+s.c_str();
+
 ## Member Functions
 
 ### erase
