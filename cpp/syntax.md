@@ -20,3 +20,13 @@
 	}
 
 template <**typename Type**>
+
+##Overload Operators
+
+	class A {
+		...
+	}
+
+	A opertor + (const A &s1, const A &s2) {
+		...
+	}
